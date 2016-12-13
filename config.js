@@ -67,8 +67,8 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: websiteUrl,
-        urlSSL: websiteUrlSSL,
+        url: 'http://belajarlisensimicrosoft.azurewebsites.net',
+        urlSSL: 'http://belajarlisensimicrosoft.azurewebsites.net',
 
         // Visit http://support.ghost.org/mail for instructions
         mail: {
